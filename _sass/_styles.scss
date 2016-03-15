@@ -12,15 +12,6 @@ body {
   overflow-x: hidden;
 }
 
-h1 {
-    word-wrap: break-word;
-    -webkit-hyphens: auto;
-    -moz-hyphens: auto;
-    -ms-hyphens: auto;
-    -o-hyphens: auto;
-    hyphens: auto;
-}
-
 h1,h2,h3,h4,h5 {
     font-family: $serif;
 }
@@ -765,6 +756,13 @@ footer {
   header.site-header hgroup h1 {
     margin-bottom: 0;
     font-size: $fsp;
+
+    word-wrap: break-word;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    -o-hyphens: auto;
+    hyphens: auto;
   }
 
   header.site-header hgroup {
