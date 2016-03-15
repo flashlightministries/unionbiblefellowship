@@ -1,9 +1,7 @@
 ---
-layout: page
+layout: default
 permalink: /contact/index.html
 title: Contact Us
-image:
-  feature: flashlight1.jpg
 ---
 
 ### Call
