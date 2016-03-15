@@ -11,6 +11,8 @@ description: Flashlight Ministries is a Bible-based Christian teaching and apolo
 
 ### Our Work
 
+* Reading
+* Praying
 * Teaching
 * Preaching
 * [BIBLE NEWS FLASH](http://biblenewsflash.com)
