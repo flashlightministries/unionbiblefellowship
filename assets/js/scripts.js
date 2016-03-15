@@ -31,7 +31,7 @@ $(function(){
       if (!imgUrl) {
         return;
       }
-      imgUrl = imgUrl.substring(4, imgUrl.length-1);
+      imgUrl = imgUrl.substring(5, imgUrl.length-2);
       return imgUrl;
   }).load(function(){
     $('img.loading').fadeOut(500);
