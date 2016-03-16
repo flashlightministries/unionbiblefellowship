@@ -573,7 +573,8 @@ footer {
     height: $footerHeight;
     font-size: $fsp;
     color: $white;
-    position: relative;
+    position: fixed;
+    bottom: 0;
 
     // Contain that ish
     section {
