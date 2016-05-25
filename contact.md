@@ -24,3 +24,5 @@ title: Contact Us
 **Email** <a id="mail" href="mailto:{{ site.owner.email }}">tc@flmin.org</a>
 
 **Facebook** [FlashlightMinistries](https://www.facebook.com/FlashlightMinistries)
+
+**Twitter** [thyflashlight](https://twitter.com/thyflashlight)
