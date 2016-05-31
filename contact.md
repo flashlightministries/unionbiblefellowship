@@ -19,10 +19,6 @@ title: Contact Us
     PO Box 872
     Union, OR  97883
 
-### Online
+### Email
 
-**Email** <a id="mail" href="mailto:{{ site.owner.email }}">tc@flmin.org</a>
-
-**Facebook** [FlashlightMinistries](https://www.facebook.com/FlashlightMinistries)
-
-**Twitter** [thyflashlight](https://twitter.com/thyflashlight)
+    tc@flmin.org
