@@ -1,5 +1,5 @@
 ---
-layout: post-light-feature
+layout: post-no-feature
 title: FALLEN WORLD NEWS is now in beta and online
 comments: true
 ---
