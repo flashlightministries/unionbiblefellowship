@@ -1,6 +1,6 @@
 ---
 layout: post-no-feature
-title: FALLEN WORLD NEWS is now in beta and online
+title: Stedfast News is now in beta and online
 comments: true
 ---
 
