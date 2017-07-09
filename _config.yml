@@ -1,12 +1,12 @@
-title:            Flashlight Ministries
-tagline:          From the rising of the sun unto the going down of the same the LORD'S name is to be praised (Psalm 113:3).
-canonical:        http://flmin.org
+title:            Union Bible Fellowship
+tagline:          Local families gathering together to break bread and learn about Jesus Christ.
+canonical:        http://unionbiblefellowship.org
 
 # Owner/author information
 owner:
   name:           T. C. Howitt
   avatar:         todo
-  bio:            "Director"
+  bio:            "Brother"
   email:          tc@flmin.org
   twitter:        thyflashlight
   facebook:       FlashlightMinistries
@@ -14,7 +14,7 @@ owner:
   location:       "Union, OR"
 
 business:
-  name:           Flashlight Ministries
+  name:           Union Bible Fellowship
 
 tools:
   standards:      "HTML, SCSS, Jekyll"
