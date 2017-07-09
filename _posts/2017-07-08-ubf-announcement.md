@@ -4,7 +4,7 @@ title: Union Bible Fellowship Welcomes Friends
 comments: true
 ---
 
-We're a group of local families gathering together to share a meal and learn about Jesus Christ.  Believers and seekers alike are welcome to join us as we spend time talking about the gospel, praying and worshipping Him.
+We're a group of local families who gather together to share meals and learn about Jesus Christ.  Believers and seekers alike are welcome to join us as we spend time talking about the gospel, praying and worshipping God.
 
 First-time attendees need not bring any food.  After that, please bring a dish to share.  We provide Bibles if you need them.
 
