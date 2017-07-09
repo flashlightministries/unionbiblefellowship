@@ -10,6 +10,6 @@ First-time attendees need not bring any food.  After that, please bring a dish t
 
 We're independent and unaffiliated with any church denomination.  Rest assured that this is not a sect or a cult.  We affirm that the Bible alone is the inspired word of God and the sole authority for doctrine.
 
-God bless, and we hope to see you soon!
-
 For meeting times and location, call brother TC at (541) 786-6456 or email tc@unionbiblefellowship.org.
+
+God bless, and we hope to see you soon!
