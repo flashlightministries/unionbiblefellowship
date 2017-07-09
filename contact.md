@@ -6,7 +6,7 @@ title: Contact Us
 
 ### Call
 
-    541.975.4290
+    541.786.7456
 
 ### Visit
 
@@ -15,10 +15,10 @@ title: Contact Us
 
 ### Mail
 
-    Flashlight Ministries
+    Union Bible Fellowship
     PO Box 872
     Union, OR  97883
 
 ### Email
 
-    tc@flmin.org
+    tc@unionbiblefellowship.org
