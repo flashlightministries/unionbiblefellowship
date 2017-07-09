@@ -2,12 +2,6 @@
 layout: default
 permalink: /about/index.html
 title: About
-description: Flashlight Ministries is a Bible-based Christian teaching and apologetics ministry.
+description: Union Bible Fellowship meets regularly to break bread, study, pray and worship in Jesus' name.
 ---
 
-### Our work includes,
-
-* Reading
-* Praying
-* Teaching
-* Preaching
